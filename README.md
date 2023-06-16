@@ -12,7 +12,6 @@ This plugin is specifically made for use with the Astra theme.
 
 - Adds a custom image field to the user profile for setting a custom author image.
 - Displays the custom author image in the author box on single post pages.
-- Removes the link to the author archive page.
 
 ## Installation
 
@@ -26,7 +25,7 @@ This plugin is specifically made for use with the Astra theme.
 1. After activating the plugin, a new field labeled "Author Image" will be added to the end of the user profile page in the WordPress admin area.
 2. Users can enter the URL of their custom image in this field.
 3. In the "Settings" -> "Discussion" section of the WordPress admin area, make sure to uncheck the "Gravatar" checkbox to display only the custom author image.
-4. The custom image will be displayed in the author box on single post pages. The plugin also removes the link to Author archive.
+4. The custom image will be displayed in the author box on single post pages. 
 
 ## License
 
